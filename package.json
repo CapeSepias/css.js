@@ -1,6 +1,6 @@
 {
-  "name": "css.js",
-  "version": "1.0.0",
+  "name": "front-css-js",
+  "version": "1.0.0-1",
   "description": "A lightweight, battle tested, fast, CSS parser in JavaScript.",
   "main": "css.js",
   "directories": {
